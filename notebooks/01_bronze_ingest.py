@@ -5,11 +5,11 @@ from pyspark.sql import functions as F
 
 # Cell 2: Paste your CMS UUIDs here
 CMS_DATASET_IDS = {
-    2018: "PASTE_2018_UUID_HERE",
-    2019: "PASTE_2019_UUID_HERE",
-    2020: "PASTE_2020_UUID_HERE",
-    2021: "PASTE_2021_UUID_HERE",
-    2022: "PASTE_2022_UUID_HERE",
+    2018: "802fe556-311f-4962-8d75-d5f4ff405884",
+    2019: "2a6705e6-7a1e-460c-ba22-35249a531918",
+    2020: "7795fe20-e80e-435a-a9ed-d2d65e05feeb",
+    2021: "f68114ed-f854-4ffc-9c6e-ed78b5e2f8d0",
+    2022: "b101b457-ffa4-49bb-8fd9-27c1266086e2",
 }
 API_BASE = "https://data.cms.gov/data-api/v1/dataset/{dataset_id}/data"
 
