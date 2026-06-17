@@ -1,0 +1,2 @@
+# Databricks Free Edition provides PySpark, Delta Lake, DBFS, and Unity Catalog.
+# This file is intentionally minimal for repository linting/documentation.
